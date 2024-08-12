@@ -1,2 +1,3 @@
 # Portfolio
-https://luc4scode.github.io/Portifolio/Index.html
+https://luc4scode.github.io/Portfolio/Index.html
+
